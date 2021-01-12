@@ -1,0 +1,11 @@
+        .tbl_employers {width: 100%;}
+        .tbl_employers td {border: 1px solid #000;}
+        .tbl_employers_header {background: #999;}        
+        .tbl_employers_header td {text-align: center; color: #fff;}
+        .row {background: rgb(255,255,255);}
+        .row:hover td {background: rgb(221, 249, 93); cursor: pointer;}
+        .emp_name{width: 20%;}
+        .emp_lname{width: 20%;}
+        .c_name{width: 20%;}
+        .c_city{width: 20%;}
+        .otherinfo{width: 15%; text-align: center;}

@@ -1,0 +1,16 @@
+.tbl_applicants {width: 100%;}
+.tbl_applicants .tbl_header {background: #999;}
+.tbl_applicants .tbl_header td {
+    text-align: center;
+    color: #fff;
+}
+.tbl_applicants td {
+    border: 1px solid #000;
+}
+.tbl_applicants .row td {
+    padding: 5px 5px 0 0;
+}
+.row {background: rgb(255,255,255);}
+.row:hover td {
+    background: rgb(221, 249, 93);
+}        

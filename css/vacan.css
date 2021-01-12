@@ -1,0 +1,13 @@
+.tbl_vacancies {width: 100%;}
+.tbl_vacancies td {border: 1px solid #000;}
+.tbl_vacancies_header {
+    background: #999;
+    color: #fff;
+    text-align: center;
+}        
+.row {background: rgb(255,255,255);
+    text-align: center;
+}
+.row:hover td {
+    background: rgb(221, 249, 93);
+}
